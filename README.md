@@ -1,2 +1,1 @@
-# Health Analytics
-Projects and mini projects I did in health analytics 
+#CIS 3311 Intro into Datascience mini project

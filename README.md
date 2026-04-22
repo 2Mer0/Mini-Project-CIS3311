@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project is a data cleaning, visualization, and regression analysis mini‑project created for CIS 3311.
 It analyzes a patient health dataset by handling missing values, fixing data inconsistencies, visualizing outliers, and applying Linear Regression to study the relationship between biomarkers and blood pressure.
 
@@ -81,3 +82,7 @@ Purpose: Data cleaning, visualization, and regression practice
 
 Code includes detailed comments explaining each step
 Designed for educational use and coursework submission
+=======
+#CIS 3311 Intro into Datascience mini project
+i cleaned health data and represented them in a helpful matter.
+>>>>>>> e6bcfb8c71d483544b2f40f335f1f0d01f8b0d1f
